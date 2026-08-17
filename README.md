@@ -80,6 +80,11 @@ The testbench performs the following operations:
 ## Simulation
 
 The design and testbench were simulated using EDA Playground.
+### Simulation Waveform
+
+The following waveform demonstrates the FIFO reset, write operations, read operations, pointer movement, FIFO count, and full/empty status signals.
+
+![FIFO Simulation Waveform](screenshots/fifo_waveform.png)
 
 ### EDA Playground Simulation
 
